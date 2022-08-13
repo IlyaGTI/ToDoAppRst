@@ -1,0 +1,2 @@
+ALTER TABLE note
+    ADD COLUMN date DATETIME;
